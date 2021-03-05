@@ -1,0 +1,5 @@
+﻿  hangman.cpp
+Z:\IGMProfile\Desktop\209\HW 1\hangman.cpp(46,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  HW 1.vcxproj -> Z:\IGMProfile\Desktop\209\HW 1\x64\Debug\HW 1.exe
