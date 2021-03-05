@@ -1,0 +1,4 @@
+﻿  functions.cpp
+Z:\IGMProfile\Desktop\209\PE6\functions.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+Z:\IGMProfile\Desktop\209\PE6\functions.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PE6.vcxproj -> Z:\IGMProfile\Desktop\209\PE6\Debug\PE6.exe

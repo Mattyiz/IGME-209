@@ -1,0 +1,4 @@
+﻿  PE8.cpp
+Z:\IGMProfile\Desktop\209\PE8\PE8.cpp(92): warning C4172: returning address of local variable or temporary: numbers
+  LINK : Z:\IGMProfile\Desktop\209\PE8\Debug\PE8.exe not found or not built by the last incremental link; performing full link
+  PE8.vcxproj -> Z:\IGMProfile\Desktop\209\PE8\Debug\PE8.exe
